@@ -1,0 +1,29 @@
+{
+  "source": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist.zip",
+  "observations": 255,
+  "method": "Arithmetic mean of daily EUR-per-local-currency reciprocals on 255 ECB observation days. Not the reciprocal of the annual mean EUR-base quote. No weekend interpolation.",
+  "rates": {
+    "EUR": {
+      "avg_quote": 1,
+      "avg": 1,
+      "end_quote": 1,
+      "end": 1,
+      "txn_quote": 1
+    },
+    "USD": {
+      "avg_quote": 1.129983137254902,
+      "avg": 0.8867045200428483,
+      "end_quote": 1.175,
+      "end": 0.851063829787234,
+      "txn_quote": 1.172
+    },
+    "CNY": {
+      "avg_quote": 8.11850431372549,
+      "avg": 0.12333668747479931,
+      "end_quote": 8.2262,
+      "end": 0.12156281150470448,
+      "txn_quote": 8.397
+    }
+  },
+  "raw_zip_sha256": "d34817759624a46b58a42ac585f6d9d2fb12ece793d158656dcc7ddd128779a3"
+}
