@@ -2,6 +2,8 @@
 
 [English](README.md) · [Deutsch](README.de.md) · [简体中文](README.zh-CN.md)
 
+[Projektübersicht](https://v6rfy78ggr-rgb.github.io/v6rfy78ggr-rgb/de.html) · [Kurzer Einstieg](TRY_IT.md) · [Versionen](https://github.com/v6rfy78ggr-rgb/cbcr-workbook/releases) · [Excel-Vorlage laden](workbooks/CbCR_Template_v3.xlsx)
+
 Ein chinesisch-englisches Excel-Arbeitspaket zur Aufbereitung von Country-by-Country-Reporting-Daten, Rückfragen und Berichten. Enthalten sind eine leere Vorlage und ein vollständig fiktives Beispiel mit fünf Einheiten. Diese deutsche Anleitung bedeutet keine deutsche Übersetzung der Arbeitsmappe.
 
 ## Einstieg

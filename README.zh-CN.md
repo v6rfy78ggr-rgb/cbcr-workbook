@@ -2,6 +2,8 @@
 
 [English](README.md) · [Deutsch](README.de.md) · [简体中文](README.zh-CN.md)
 
+[项目入口](https://v6rfy78ggr-rgb.github.io/v6rfy78ggr-rgb/zh-CN.html) · [一分钟试用](TRY_IT.md) · [版本下载](https://github.com/v6rfy78ggr-rgb/cbcr-workbook/releases) · [下载 Excel 模板](workbooks/CbCR_Template_v3.xlsx)
+
 用于组织国别报告数据、复核问题和报告准备的中英双语 Excel 工作包，包含空白模板和完整的五实体虚构示例。这里另提供德语 README，工作簿本身仍是中文/英语。
 
 ## 从哪里开始

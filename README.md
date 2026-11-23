@@ -2,6 +2,8 @@
 
 [English](README.md) · [Deutsch](README.de.md) · [简体中文](README.zh-CN.md)
 
+[Project hub](https://v6rfy78ggr-rgb.github.io/v6rfy78ggr-rgb/) · [One-minute first look](TRY_IT.md) · [Version downloads](https://github.com/v6rfy78ggr-rgb/cbcr-workbook/releases) · [Download Excel template](workbooks/CbCR_Template_v3.xlsx)
+
 A bilingual Chinese/English Excel work package for organising country-by-country reporting inputs, review questions and report preparation. It includes a blank template and a complete fictional five-entity example. German documentation is provided; the workbook itself has not been translated into German.
 
 ## Start here
